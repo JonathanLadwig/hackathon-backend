@@ -1,12 +1,17 @@
+import cors from "@elysiajs/cors";
+import swagger from "@elysiajs/swagger";
 import { Elysia } from "elysia";
-import { swagger } from "@elysiajs/swagger";
-import { investecController } from './controllers/investecController';
+import { investecController } from "./controllers/investecController";
+import { serp } from "./controllers/serpApi";
 
 const app = new Elysia()
+  .use(cors())
     .use(swagger())
-    .get('/', () => 'Hi Eden')
+  .use(swagger())
+  .get("/", () => "Hi Elysia")
     .use(investecController)
-    .listen(3000)
+  .use(serp)
+  .listen(3000);
     console.log(
         `:fox_face: Elysia is running at ${app.server?.hostname}:${app.server?.port}`
       );
