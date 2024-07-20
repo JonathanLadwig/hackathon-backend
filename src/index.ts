@@ -6,7 +6,7 @@ import { serp } from "./controllers/serpApi";
 const app = new Elysia()
   .use(cors())
   .use(swagger())
-  .get("/", () => "Hello Elysia")
+  .get("/", () => "Hi Elysia")
   .use(serp)
   .listen(3100);
 
