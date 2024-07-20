@@ -7,13 +7,13 @@
   },
   "dependencies": {
     "@elysiajs/cors": "^1.1.0",
+    "@elysiajs/eden": "^1.1.1",
     "@elysiajs/swagger": "^1.1.0",
     "cors": "^2.8.5",
     "elysia": "latest",
     "openapi": "^1.0.1",
     "serpapi": "^2.1.0",
-    "swagger": "^0.7.5",
-    "@elysiajs/eden": "^1.1.1"
+    "swagger": "^0.7.5"
   },
   "devDependencies": {
     "bun-types": "latest"
