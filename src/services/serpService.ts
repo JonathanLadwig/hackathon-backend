@@ -1,6 +1,8 @@
 import { getJson } from "serpapi";
+import { storeResult } from "..";
 import { serpkey } from "../env/serpApi.keys";
-import { ShoppingResults } from "../models/shopping";
+import { Result } from "../models/results";
+import { IShoppingResult, ShoppingResults } from "../models/shopping";
 
 export class SerpService {
     getStandardDeviation(serpData: any) {
@@ -46,19 +48,79 @@ export class SerpService {
             result.extracted_price < lower
         )
 
-        // Sort the filtered results by number of reviews, then by price
-        // filtered_results.sort((a: any, b: any) => {
-        //     const reviewsA = a.reviews ?? 0;
-        //     const reviewsB = b.reviews ?? 0;
-        //     if (reviewsB !== reviewsA) {
-        //         return reviewsB - reviewsA;
-        //     }
-        //     return a.extracted_price - b.extracted_price;
-        // });
-
         const filters = serpData["filters"]
 
-        return { mean, std, lower, upper, lowest, highest, filters, filtered_results, unfiltered_results }
+        const calculatedResult: Result = {
+            mean: mean,
+            std: std,
+            lower: lower,
+            upper: upper,
+            lowest: lowest,
+            highest: highest,
+            filters: filters,
+            filtered_results: filtered_results,
+            unfiltered_results: unfiltered_results
+        };
+
+        storeResult(calculatedResult);
+
+        return calculatedResult
+    }
+
+    getSortByReviews(results: Result) {
+        // Sort the filtered results by number of reviews, then by price
+        results.filtered_results.sort((a: any, b: any) => {
+            const reviewsA = a.reviews ?? 0;
+            const reviewsB = b.reviews ?? 0;
+            if (reviewsB !== reviewsA) {
+                return reviewsB - reviewsA;
+            }
+            return a.extracted_price - b.extracted_price;
+        });
+
+        results.unfiltered_results.sort((a: IShoppingResult, b: IShoppingResult) => {
+            const reviewsA = a.reviews ?? 0;
+            const reviewsB = b.reviews ?? 0;
+            if (reviewsB !== reviewsA) {
+                return reviewsB - reviewsA;
+            }
+            return a.extracted_price - b.extracted_price;
+        });
+        return results;
+    }
+
+    getSortByPrice(results: Result) {
+        results.filtered_results.sort((a: IShoppingResult, b: IShoppingResult) => {
+            return a.extracted_price - b.extracted_price;
+        });
+
+        results.unfiltered_results.sort((a: IShoppingResult, b: IShoppingResult) => {
+            return a.extracted_price - b.extracted_price;
+        });
+
+        return results;
+    }
+
+    getSortByRating(results: Result) {
+        results.filtered_results.sort((a: IShoppingResult, b: IShoppingResult) => {
+            const ratingA = a.rating ?? 0;
+            const ratingB = b.rating ?? 0;
+            if (ratingB !== ratingA) {
+                return ratingB - ratingA;
+            }
+            return a.extracted_price - b.extracted_price;
+        });
+
+        results.unfiltered_results.sort((a: IShoppingResult, b: IShoppingResult) => {
+            const ratingA = a.rating ?? 0;
+            const ratingB = b.rating ?? 0;
+            if (ratingB !== ratingA) {
+                return ratingB - ratingA;
+            }
+            return a.extracted_price - b.extracted_price;
+        });
+
+        return results;
     }
 
     async getGoogleLensData(url: string): Promise<any> {
@@ -96,11 +158,11 @@ export class SerpService {
             }, (json) => {
                 if (json) {
                     // const knowledgeGraph = json["shopping_results"];
-                    const knowledgeGraph = json;
+                    const knowledgeGraph = this.getStandardDeviation(json);
                     if (knowledgeGraph) {
                         resolve(knowledgeGraph);
                     } else {
-                        reject(new Error('Shopping results not found in the response'));
+                        reject(new Error('Results not found in the response'));
                     }
                 } else {
                     reject(new Error('No data returned from SerpAPI'));
