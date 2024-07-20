@@ -1,5 +1,6 @@
 import { getJson } from "serpapi";
-import { serpkey } from "../env/serpApi.keys";
+import { serpkey } from "../../env/env";
+
 import { ShoppingResults } from "../models/shopping";
 
 export class SerpService {
