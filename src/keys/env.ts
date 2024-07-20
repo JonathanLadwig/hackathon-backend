@@ -1,0 +1,2 @@
+export const bearer = 'eUF4elFSRlg5N3ZPY3lRQXdsdUVVNkg2ZVB4TUE1ZVk6YVc1MlpYTjBaV010ZW1FdGNHSXRZV05qYjNWdWRITXRjMkZ1WkdKdmVBPT0='
+export const serpkey = "6ca6a58ca6ffd0ecbc153f3740c30f6ace6bacf3d553fe975b47b33e508a2723";
