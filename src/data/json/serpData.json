@@ -1,0 +1,1893 @@
+{
+    "search_metadata": {
+        "id": "669a6c4f49ecdb1629684edb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/300447d10216e491/669a6c4f49ecdb1629684edb.json",
+        "created_at": "2024-07-19 13:38:23 UTC",
+        "processed_at": "2024-07-19 13:38:23 UTC",
+        "google_shopping_url": "https://www.google.co.za/search?tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&hl=en&gl=za",
+        "raw_html_file": "https://serpapi.com/searches/300447d10216e491/669a6c4f49ecdb1629684edb.html",
+        "total_time_taken": 3.09
+    },
+    "search_parameters": {
+        "engine": "google_shopping",
+        "q": "Nintendo Switch Pro controller Zelda edition",
+        "location_requested": "South Africa",
+        "location_used": "South Africa",
+        "google_domain": "google.co.za",
+        "hl": "en",
+        "gl": "za",
+        "device": "desktop"
+    },
+    "search_information": {
+        "shopping_results_state": "Results for exact spelling",
+        "query_displayed": "Nintendo Switch Pro controller Zelda edition",
+        "location_detected": "South Africa"
+    },
+    "filters": [
+        {
+            "type": "Show only",
+            "options": [
+                {
+                    "text": "On sale",
+                    "tbs": "mr:1,sales:1"
+                }
+            ]
+        },
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "text": "Up to R 500",
+                    "tbs": "mr:1,price:1,ppr_max:500"
+                },
+                {
+                    "text": "R 500 – R 1,000",
+                    "tbs": "mr:1,price:1,ppr_min:500,ppr_max:1000"
+                },
+                {
+                    "text": "Over R 1,000",
+                    "tbs": "mr:1,price:1,ppr_min:1000"
+                }
+            ]
+        },
+        {
+            "type": "Compatibility",
+            "options": [
+                {
+                    "text": "Switch",
+                    "tbs": "mr:1,pdtr0:728446%7C2946744"
+                },
+                {
+                    "text": "PC",
+                    "tbs": "mr:1,pdtr0:728446%7C729543"
+                },
+                {
+                    "text": "GameCube",
+                    "tbs": "mr:1,pdtr0:728446%7C729544"
+                }
+            ]
+        },
+        {
+            "type": "Brand",
+            "options": [
+                {
+                    "text": "Nintendo",
+                    "tbs": "mr:1,pdtr0:728167%7C728180"
+                },
+                {
+                    "text": "PowerA",
+                    "tbs": "mr:1,pdtr0:728167%7C2144548"
+                },
+                {
+                    "text": "HORI",
+                    "tbs": "mr:1,pdtr0:728167%7C728174"
+                },
+                {
+                    "text": "PDP",
+                    "tbs": "mr:1,pdtr0:728167%7C908663"
+                }
+            ]
+        },
+        {
+            "type": "Nintendo Product Line",
+            "options": [
+                {
+                    "text": "Nintendo Switch Pro Controller",
+                    "tbs": "mr:1,pdtr0:2097417%7C2097420"
+                },
+                {
+                    "text": "Nintendo Joy-Con",
+                    "tbs": "mr:1,pdtr0:2097417%7C2097418"
+                }
+            ]
+        },
+        {
+            "type": "Connectivity",
+            "options": [
+                {
+                    "text": "Wireless",
+                    "tbs": "mr:1,pdtr0:728286%7C728287"
+                },
+                {
+                    "text": "Wired",
+                    "tbs": "mr:1,pdtr0:728286%7C728288"
+                }
+            ]
+        },
+        {
+            "type": "Colour",
+            "options": [
+                {
+                    "text": "Zelda",
+                    "tbs": "mr:1,pdtr0:1607274%7C1003638403"
+                },
+                {
+                    "text": "Black",
+                    "tbs": "mr:1,pdtr0:1607274%7C1002324925"
+                }
+            ]
+        },
+        {
+            "type": "Delivery and returns",
+            "options": [
+                {
+                    "text": "Free returns",
+                    "tbs": "mr:1,free_return:1"
+                }
+            ]
+        },
+        {
+            "type": "Product rating",
+            "options": [
+                {
+                    "text": "4 and up",
+                    "tbs": "mr:1,avg_rating:400"
+                },
+                {
+                    "text": "3 and up",
+                    "tbs": "mr:1,avg_rating:300"
+                },
+                {
+                    "text": "2 and up",
+                    "tbs": "mr:1,avg_rating:200"
+                },
+                {
+                    "text": "1 and up",
+                    "tbs": "mr:1,avg_rating:100"
+                }
+            ]
+        },
+        {
+            "type": "Condition",
+            "options": [
+                {
+                    "text": "New items",
+                    "tbs": "mr:1,new:1"
+                },
+                {
+                    "text": "Used items",
+                    "tbs": "mr:1,new:3"
+                }
+            ]
+        },
+        {
+            "type": "Seller",
+            "options": [
+                {
+                    "text": "Bob Shop",
+                    "tbs": "mr:1,merchagg:m7468407"
+                },
+                {
+                    "text": "eBay",
+                    "tbs": "mr:1,merchagg:g6296794%7Cm6296724%7Cm108302241"
+                },
+                {
+                    "text": "Maverick Sales",
+                    "tbs": "mr:1,merchagg:m130888767"
+                },
+                {
+                    "text": "Microless.com",
+                    "tbs": "mr:1,merchagg:m115909489"
+                },
+                {
+                    "text": "Nintendo Online Store SA",
+                    "tbs": "mr:1,merchagg:m120558787"
+                },
+                {
+                    "text": "takealot.com",
+                    "tbs": "mr:1,merchagg:m101489474"
+                },
+                {
+                    "text": "Tokyo Game Story",
+                    "tbs": "mr:1,merchagg:m5296482454"
+                },
+                {
+                    "text": "Ubuy",
+                    "tbs": "mr:1,merchagg:m113729935%7Cm115986666%7Cm118658923%7Cm151572082%7Cm248473521"
+                },
+                {
+                    "text": "XMODS",
+                    "tbs": "mr:1,merchagg:m125209565"
+                }
+            ]
+        }
+    ],
+    "inline_shopping_results": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Switch Pro Controller Legend Of Zelda Tears Of The Kingdom Edition",
+            "price": "731.82 R",
+            "extracted_price": 731.82,
+            "link": "https://www.google.co.za/aclk?sa=l&ai=DChcSEwjD5e75nLOHAxVbS0cBHRLMC1UYABABGgJxdQ&co=1&gclid=EAIaIQobChMIw-Xu-ZyzhwMVW0tHAR0SzAtVEAsYASABEgIKgfD_BwE&sig=AOD64_2KcUJyZNBNV_BIzlRVK44XMxpO-w&ctype=5&q=&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q9A4I8xM&adurl=",
+            "source": "moonwalkbaby",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmZcTV8T4ot5FnS03IDoHED2wteziuoCgBGQx9kkSJjcPTeoBY9AetCakRdP-dec_0XqFz0VT3PQBlA0GS95p7hSv-oTc3TFHdPBAUhSiWM9cvyYfGbt2GcQ&usqp=CAE"
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "For Zelda Tears Of The Kingdom Switch Controller, Wireless Switch Pro Controller, Unofficial Switch Remote Gamepad With Nfc, Turbo Black",
+            "price": "1199.0 R",
+            "extracted_price": 1199,
+            "link": "https://www.google.co.za/aclk?sa=l&ai=DChcSEwjD5e75nLOHAxVbS0cBHRLMC1UYABADGgJxdQ&co=1&gclid=EAIaIQobChMIw-Xu-ZyzhwMVW0tHAR0SzAtVEAsYAiABEgL-GfD_BwE&sig=AOD64_1dCF5ZAgoiAA2DhZ6Mkl5eYz0qqQ&ctype=5&q=&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q9A4I9hM&adurl=",
+            "source": "fruugo.co.za",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTaRTketBJoeVXe1Nv-5wCE9uag-Ez_Qu4QIOAWDMpXEK1tfdlgP75XB8eZ-LdfaiMcXGlPRXRL2eJkGUv7f-bCN83HL3EXXeWaHSH8wRwxJT_lW-mS8Z-IFQ&usqp=CAE"
+        },
+        {
+            "position": 3,
+            "block_position": "top",
+            "title": "Nintendo Switch Pro Controller Limited Edition Zelda Tears Of The Kingdom Silver",
+            "price": "1931.99 R",
+            "extracted_price": 1931.99,
+            "link": "https://www.google.co.za/aclk?sa=l&ai=DChcSEwjD5e75nLOHAxVbS0cBHRLMC1UYABAFGgJxdQ&co=1&gclid=EAIaIQobChMIw-Xu-ZyzhwMVW0tHAR0SzAtVEAsYAyABEgIFlPD_BwE&sig=AOD64_0YhiqYNYf5dn_eq-0m5DG5nBqsPg&ctype=5&q=&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q9A4I-RM&adurl=",
+            "source": "techinn.com",
+            "rating": 4.5,
+            "reviews": 1391,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4yqub5RvqHO_4A_pjw79orgHrN0CnLHnVwz7fCQ_xJeM-iVh8wTKg3iNOjh4nSbwbAH--AMJjreQKRDhl1s6cRQ7cCuZblrMHVhmsirKukPU-pc8XKWb0mA&usqp=CAE"
+        },
+        {
+            "position": 4,
+            "block_position": "top",
+            "title": "Nintendo Switch Pro Controller - Legend of Zelda, The: Tears of the Kingdom Limited Edition (NS / Switch)(New)",
+            "price": "1990.0 R",
+            "extracted_price": 1990,
+            "link": "https://www.google.co.za/aclk?sa=l&ai=DChcSEwjD5e75nLOHAxVbS0cBHRLMC1UYABAHGgJxdQ&co=1&gclid=EAIaIQobChMIw-Xu-ZyzhwMVW0tHAR0SzAtVEAsYBCABEgLu0_D_BwE&sig=AOD64_2EHjMhQvb_4larcrGxj_CO7KohXw&ctype=5&q=&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q9A4I_RM&adurl=",
+            "source": "pwned games",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMJsGFBEn6LcfAsTXzMp4FZ2MglOELCZvDjqbWrenMeDEUZ8aYgfhoSLqjcv3cKtsFb0uo_abKkR0pu3uSvdWnNAC8PyQZVXvZJUPmMOJ_&usqp=CAE"
+        },
+        {
+            "position": 5,
+            "block_position": "top",
+            "title": "Zelda Tears Of The Kingdom Switch Controller, Wireless Switch Pro Controller, Switch Remote Gamepad With Nfc, Turbo, Vibration Black",
+            "price": "874.0 R",
+            "extracted_price": 874,
+            "link": "https://www.google.co.za/aclk?sa=l&ai=DChcSEwjD5e75nLOHAxVbS0cBHRLMC1UYABAJGgJxdQ&co=1&gclid=EAIaIQobChMIw-Xu-ZyzhwMVW0tHAR0SzAtVEAsYBSABEgIZ5fD_BwE&sig=AOD64_3Ohkit6GrsiO6lHqKxdA98xMk0HA&ctype=5&q=&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q9A4IgBQ&adurl=",
+            "source": "fruugo.co.za",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRAl7LmZWnSgGEpJPr29A7Ep4kIyRih1Coa-M-rXPyOPW2xy2Q7w8QcKjx-Wd855BRB-ZKX3ioOEP8oZ-ydmJF8S9Os5bybM1KAIdfE1ekxRdejXyzqIhAeDg&usqp=CAE"
+        },
+        {
+            "position": 6,
+            "block_position": "top",
+            "title": "Nintendo Switch Pro Controller - Legend of Zelda, The: Tears of the Kingdom Limited Edition (NS /",
+            "price": "2163.0 R",
+            "extracted_price": 2163,
+            "link": "https://www.google.co.za/aclk?sa=l&ai=DChcSEwjD5e75nLOHAxVbS0cBHRLMC1UYABALGgJxdQ&co=1&gclid=EAIaIQobChMIw-Xu-ZyzhwMVW0tHAR0SzAtVEAsYBiABEgKZpfD_BwE&sig=AOD64_2PeA-A_wi68lI0ImtywGDrjFyjAA&ctype=5&q=&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q9A4IgxQ&adurl=",
+            "source": "bob shop",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMJsGFBEn6LcfAsTXzMp4FZ2MglOELCZvDjqbWrenMeDEUZ8aYgfhoSLqjcv3cKtsFb0uo_abKkR0pu3uSvdWnNAC8PyQZVXvZJUPmMOJ_&usqp=CAE"
+        }
+    ],
+    "shopping_results": [
+        {
+            "position": 1,
+            "title": "Nintendo Switch Pro Controller - Legend of Zelda, The: Tears of the Kingdom ...",
+            "link": "https://www.pwnedgames.co.za/shop/nintendo/switch/new-accessories/nintendo-switch-pro-controller-legend-of-zelda-the-tears-of-the-kingdom-limited-edition-ns-switch-new-detail",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:9300585591674735118",
+            "product_id": "9300585591674735118",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=9300585591674735118",
+            "source": "Pwned Games",
+            "price": "1990.0 R",
+            "extracted_price": 1990,
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wired",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJBTvyMj_kzdK50cEgBvse8HRl0rGYdzAdUh6H5njDYgz2dsXB6TIq7NKMv30GK31QJ_m0Al2q37iR3eobvtn7ZVJ4437B8G18TfmBaAyV&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 2,
+            "title": "Nintendo Switch Pro Controller - Legend of Zelda: Tears of the Kingdom Edition",
+            "link": "https://www.fruugo.co.za/for-zelda-tears-of-the-kingdom-switch-controller-wireless-switch-pro-controller-unofficial-switch-remote-gamepad-with-nfc-turbo/p-190330030-406414373?language=en&ac=google&utm_source=organic_shopping&utm_medium=organic",
+            "product_link": "https://www.google.co.za/shopping/product/13939824643494593562?gl=za",
+            "product_id": "13939824643494593562",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=13939824643494593562",
+            "number_of_comparisons": "3",
+            "comparison_link": "https://www.google.co.za/shopping/product/13939824643494593562/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:14496020206091228705_0,pid:5125458024772872658,rsk:PC_7600468501483507779&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECMsL",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A14496020206091228705_0%2Cpid%3A5125458024772872658%2Crsk%3APC_7600468501483507779&gl=za&offers=1&product_id=13939824643494593562&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECMsL",
+            "source": "fruugo.co.za",
+            "price": "1199.0 R",
+            "extracted_price": 1199,
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSlWMh6GiZa6ltKCprOUWUNIHT7te4BT3o9KOWM-_2bOz8tSg3AXB95n4dCXOp585hEKn5zSIvFMbma_Uf9ZRcazA14SFrWNdzq7eu0fpvg6hLD2iV5LvQCZmM&usqp=CAE",
+            "delivery": "R 494.99 delivery"
+        },
+        {
+            "position": 3,
+            "title": "Nintendo Switch Pro Controller - The Legend of Zelda: Tears of The Kingdom Edition",
+            "link": "https://www.ebay.com/itm/364239532989?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/13939824643494593562?gl=za",
+            "product_id": "13939824643494593562",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=13939824643494593562",
+            "number_of_comparisons": "4",
+            "comparison_link": "https://www.google.co.za/shopping/product/13939824643494593562/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:10237157593767103489_0,pid:9728601933074716679,rsk:PC_7600468501483507779&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECNwL",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A10237157593767103489_0%2Cpid%3A9728601933074716679%2Crsk%3APC_7600468501483507779&gl=za&offers=1&product_id=13939824643494593562&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECNwL",
+            "source": "eBay",
+            "price": "1979.74 R + tax",
+            "extracted_price": 1979.74,
+            "alternative_price": {
+                "price": "US$107.99 + tax",
+                "extracted_price": 107.99,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRO5p8csnvFhBeyol8YGZalCPjzVM5WPSJtoluGRLBsVp34w7LbiKN5RtDJY5MNyGuQ0I-u5Kbq6OfIqkz4XP41UU3mSPpXuTSbcceeaAzE_6feImqOFaXf&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 4,
+            "title": "The Legend of Zelda Wireless HORIPAD for Nintendo Switch (HORI)",
+            "link": "https://store.nintendo.co.za/products/wireless-horipad-zelda?variant=39847809679473&srsltid=AfmBOopHdm1ANhyPd11GRsvk0bRD2wk3ekMO8Ytm4lXgdtzJz1in3atKALc",
+            "product_link": "https://www.google.co.za/shopping/product/7179043924016878818?gl=za",
+            "product_id": "7179043924016878818",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7179043924016878818",
+            "number_of_comparisons": "3",
+            "comparison_link": "https://www.google.co.za/shopping/product/7179043924016878818/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:7476267856570495774_0,pid:7214797866946447134,rsk:PC_11159503501133484933&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECO4L",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A7476267856570495774_0%2Cpid%3A7214797866946447134%2Crsk%3APC_11159503501133484933&gl=za&offers=1&product_id=7179043924016878818&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECO4L",
+            "source": "Nintendo Online Store SA",
+            "price": "999.35 R",
+            "extracted_price": 999.35,
+            "old_price": "R 1,499.00",
+            "extracted_old_price": 1499,
+            "rating": 4.5,
+            "reviews": 127,
+            "extensions": [
+                "With Feedback",
+                "Wireless",
+                "SALE"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSGL1h9b3cYN70wFIPCPGnAN9S3kQ7-TWz5SUO2YRG5rDoHoBbpFvKAohGdqjiDO5krXz6bkPTB6viHGbICC-244qG01SfHF_uK0k7oB3pZdsPufxKAJKp3ow&usqp=CAE",
+            "tag": "SALE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 5,
+            "title": "PowerA Wireless Controller for Nintendo Switch - Zelda",
+            "link": "https://www.takealot.com/powera-wireless-controller-for-nintendo-switch-zelda/PLID94381682",
+            "product_link": "https://www.google.co.za/shopping/product/10444674866588084744?gl=za",
+            "product_id": "10444674866588084744",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=10444674866588084744",
+            "source": "takealot.com",
+            "price": "1799.0 R",
+            "extracted_price": 1799,
+            "rating": 4.5,
+            "reviews": 212,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcReXpSqwbV4aZKCzaZV_zBm5CH2_m4tdzErXEpe8Oy4Df5VPHArIGsrQGBKDmV3idD5NDALBQAFEG3eX41WCFpoeV4WTonrD9Gr7N_GHBQJBYs5CsDNJNUPxA&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 6,
+            "title": "Nintendo Pro Controller Legend of Zelda: Tears of the Kingdom Edition, Motion ...",
+            "link": "https://global.microless.com/product/nintendo-pro-controller-legend-of-zelda-tears-of-the-kingdom-edition-motion-controls-wireless-bluetooth-10m-wireless-range-hd-rumble-built-in-amiibo-functionality-usb-c-black-6540520/?currency=usd",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:15526964566489407101",
+            "product_id": "15526964566489407101",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=15526964566489407101",
+            "source": "Microless.com",
+            "price": "1213.07 R + tax",
+            "extracted_price": 1213.07,
+            "alternative_price": {
+                "price": "US$66.17 + tax",
+                "extracted_price": 66.17,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT8OhJc5f7UL3EyOhGBBu1dFuP83xSX8OZCuYExQCtADGZcMn2VV7n4MHG3hOds-fQt1C4oaszcgeGgwG2L5kz7YwPkKCgMqV-S2SzGKf4&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 7,
+            "title": "The Legend of Zelda: Tears of the Kingdom Grip Controller Switch Hori Japan New",
+            "link": "https://tokyogamestory.com/en/switch-accessories/7751-split-pad-pro-for-nintendo-switch-hori-the-legend-of-zelda-tears-of-the-kingdom-japan-new-4961818036680.html",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:898095899201610891",
+            "product_id": "898095899201610891",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=898095899201610891",
+            "source": "Tokyo Game Story",
+            "price": "1196.87 R",
+            "extracted_price": 1196.87,
+            "alternative_price": {
+                "price": "€59.99",
+                "extracted_price": 59.99,
+                "currency": "€"
+            },
+            "extensions": [
+                "Wired",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSN0PPtvjOsN06SoBK4gwcUDfyBmczY_aEdXkhvE0lK9Y2NPTo-F_I3L1Xca6FowRyk4GcsC1NAiQyg4t3eBDUvHZnhplBZdWzDOUZCQLViRS8gD2K15jXYyw&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 8,
+            "title": "PDP Zelda Wired Fight Pad Pro Link Edition Controller for Nintendo Switch - Blue",
+            "link": "https://www.ebay.com/itm/156085554476?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOooM2AQZ2ekcVCGOz4yglHn-TG43dsIkHBA6VopejPJ7m688HWokDW0",
+            "product_link": "https://www.google.co.za/shopping/product/15703565396438599551?gl=za",
+            "product_id": "15703565396438599551",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=15703565396438599551",
+            "number_of_comparisons": "3",
+            "comparison_link": "https://www.google.co.za/shopping/product/15703565396438599551/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:3458591200158381772_0,pid:10678544425581635553,rsk:PC_6142492421413365774&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECK0M",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A3458591200158381772_0%2Cpid%3A10678544425581635553%2Crsk%3APC_6142492421413365774&gl=za&offers=1&product_id=15703565396438599551&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECK0M",
+            "source": "eBay - nicksplace23",
+            "price": "1466.43 R + tax",
+            "extracted_price": 1466.43,
+            "alternative_price": {
+                "price": "US$79.99 + tax",
+                "extracted_price": 79.99,
+                "currency": "US$"
+            },
+            "rating": 4.4,
+            "reviews": 97,
+            "extensions": [
+                "With Feedback",
+                "Wired"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQGFtCdFojrcLDTQ15sHTQi3RGfGAvm_iZ99dV_kYLTQoT__GECjDM3N3Z2L3obqO-NDwQ4U6zmZdFSZCgsHalM0gnHrI8-6p2O7LsDxj_Vd-FEg1Q6vD96bw&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 9,
+            "title": "Rock Candy Wired Nintendo Switch Pro Controller - Zelda Breath of the Wild at ...",
+            "link": "https://retrovgames.com/rock-candy-wired-nintendo-switch-pro-controller-zelda-breath-of-the-wild/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=GMT&srsltid=AfmBOorzZlZjvRnjDxliXZC2p45wKd5GkFnjvsHUineqL8eh_sD3s8dw8Vg",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:7184569744025298825",
+            "product_id": "7184569744025298825",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7184569744025298825",
+            "source": "Retro vGames",
+            "price": "549.43 R + tax",
+            "extracted_price": 549.43,
+            "alternative_price": {
+                "price": "US$29.97 + tax",
+                "extracted_price": 29.97,
+                "currency": "US$"
+            },
+            "second_hand_condition": "refurbished",
+            "rating": 4.2,
+            "reviews": 139,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCHHJBG-lSI3HSRu7gEDWzfjmpfj12sMiZwDvk8cEHoIO8eldNP9thiFOZeXsF_iUfDKpnvtrYWFyRTW533JNwa8ZG_ApRxF6Lcguyv9VSxFbH-sXywWN1&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 10,
+            "title": "Nintendo Switch Pro Controller - The Legend of Zelda Tears of The Kingdom",
+            "link": "https://www.rarewaves.com/products/0045496431631-switch-pro-controller-zelda-totk-edition?variant=40779203739745&currency=GBP&utm_medium=product_sync&utm_source=google&utm_campaign=sag_organic&srsltid=AfmBOoqo4WBeKDL5x6iS9n9G4UbgbOJObhqMgwXuLQXdAzn5GB8QaNRq9ko",
+            "product_link": "https://www.google.co.za/shopping/product/13939824643494593562?gl=za",
+            "product_id": "13939824643494593562",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=13939824643494593562",
+            "source": "Rarewaves",
+            "price": "3139.37 R",
+            "extracted_price": 3139.37,
+            "alternative_price": {
+                "price": "£132.59",
+                "extracted_price": 132.59,
+                "currency": "£"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "With Feedback",
+                "Wireless",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJMU1BS2OvkGYj2Y_3MAC1Eqw-AEtJLHhb-opf4kLR2bqiOjXMmphoRMAvXBQ1HPixFhZlAmDKtoaEJZmeWYi7yFi0OlO3NjrPb2uSau-Zoz9jXblD3mRYnWc&usqp=CAE",
+            "delivery": "R 107.73 delivery"
+        },
+        {
+            "position": 11,
+            "title": "Nintendo Switch Pro Controller - The Legend Of Zelda Tears Of The",
+            "link": "https://www.ebay.com/itm/145166252438?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:7439015278168140604",
+            "product_id": "7439015278168140604",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7439015278168140604",
+            "source": "eBay",
+            "price": "1503.09 R + tax",
+            "extracted_price": 1503.09,
+            "alternative_price": {
+                "price": "US$81.99 + tax",
+                "extracted_price": 81.99,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wired",
+                "Switch",
+                "Bluetooth"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRpbSO3yybyvJb0hR4MeeG8Rq6wrC0lyeHDaDfisPbb8Q7pmyCmvuH4SduJqzPZlLRHexbqOfpe1Rc7KhGYr9GMP6Y3xw-uVA_vh1lB42Pmcwh4R5BClOh2DA&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 12,
+            "title": "The Legend of Zelda Classic Controller Manette Nintendo/Hori Switch Japan New",
+            "link": "https://tokyogamestory.com/en/switch-accessories/7990-the-legend-of-zelda-breath-of-the-wild-classic-controller-for-nintendo-switch-manette-japan-new-filaire-4961818029408.html",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:14177456521034017290",
+            "product_id": "14177456521034017290",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=14177456521034017290",
+            "source": "Tokyo Game Story",
+            "price": "797.85 R",
+            "extracted_price": 797.85,
+            "alternative_price": {
+                "price": "€39.99",
+                "extracted_price": 39.99,
+                "currency": "€"
+            },
+            "rating": 4.7,
+            "reviews": 45,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSt30276eeP2gl4lu44cgNKVgXqE0JiqoBtelyvTzmzHRif0sw6D0NWUdM7juT0EJhcslVAUFhXN2fV46nULl6ox0I3-acfB4_hX-JZ2ti59UVOlQnSqfU_Fg&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 13,
+            "title": "Zelda Tears Of The Kingdom Switch Controller, Wireless Switch Pro Controller ...",
+            "link": "https://www.fruugo.co.za/zelda-tears-of-the-kingdom-switch-controller-wireless-switch-pro-controller-switch-remote-gamepad-with-nfc-turbo-vibration/p-181916392-388527804?language=en&ac=google&utm_source=organic_shopping&utm_medium=organic",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:2279406042937435885",
+            "product_id": "2279406042937435885",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=2279406042937435885",
+            "source": "fruugo.co.za",
+            "price": "874.0 R",
+            "extracted_price": 874,
+            "extensions": [
+                "Wireless",
+                "Gamepad"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQNV5tTZo_Lmje22w52GG-WhlPULIiS_OBegRLrIdBbCzsIz3c0DypMSxD93CF4ybwWagfKSyB5PN1u7VfWnDjcQv9AKpyhpMQ1fLGJ881gND8vE92iStu3ng&usqp=CAE",
+            "delivery": "R 342.49 delivery"
+        },
+        {
+            "position": 14,
+            "title": "PDP Nintendo Switch Wired Fight Pad Pro - Zelda White Special Edition",
+            "link": "https://www.ebay.com/itm/404182427587?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOopxSeUTUExu_Cn8Dznm_YvbNV0sLMl-WTMOGOHBZwFRtI1BvuO7fT8",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:11036511438179785217",
+            "product_id": "11036511438179785217",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=11036511438179785217",
+            "source": "eBay - 6te1store",
+            "price": "1016.36 R + tax",
+            "extracted_price": 1016.36,
+            "alternative_price": {
+                "price": "US$55.44 + tax",
+                "extracted_price": 55.44,
+                "currency": "US$"
+            },
+            "rating": 4.6,
+            "reviews": 10,
+            "extensions": [
+                "With Feedback",
+                "Wired",
+                "PC"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ0kSpnRdx3ltHdh-y8rzGSDEYrRurDqllmsPVrzBULdz61ziWCRLFku9D4VOEFzChb3q82YlMpD-9caIrko0T1t2cf3IgfuSf0cacHQDkD_Uwbd3PpgPVl&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 15,
+            "title": "HORI Nintendo Switch Split Pad Pro (The Legend of Zelda Tears of the Kingdom ...",
+            "link": "https://global.microless.com/product/hori-nintendo-switch-split-pad-pro-the-legend-of-zelda-tears-of-the-kingdom-edition-for-nintendo-switch-officially-licensed-by-nintendo-nintendo-switch-nintendo-switch-oled-model/?currency=usd",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:14158487147976542332",
+            "product_id": "14158487147976542332",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=14158487147976542332",
+            "source": "Microless.com",
+            "price": "1501.81 R + tax",
+            "extracted_price": 1501.81,
+            "alternative_price": {
+                "price": "US$81.92 + tax",
+                "extracted_price": 81.92,
+                "currency": "US$"
+            },
+            "rating": 4.5,
+            "reviews": 2162,
+            "extensions": [
+                "With Feedback",
+                "Wired"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTk0yX3CO60brskWrw_VLH9D75bNx69R1NiaKTw5i74U6QBz2jFz9XjuoaoGm7lel7yCprWsTLW3jzlygFeg_ikMhNnyf00xKzvJoZ_aq8&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 16,
+            "title": "Pro Controller - Manette Zelda Tears Kingdom Switch NINTENDO USA Official NEW Sealed",
+            "link": "https://tokyogamestory.com/en/switch-accessories/8486-pro-controller-manette-zelda-tears-kingdom-switch-nintendo-usa-official-new-sealed-045496883614.html",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:11897673644872688192",
+            "product_id": "11897673644872688192",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=11897673644872688192",
+            "source": "Tokyo Game Story",
+            "price": "2393.94 R",
+            "extracted_price": 2393.94,
+            "alternative_price": {
+                "price": "€119.99",
+                "extracted_price": 119.99,
+                "currency": "€"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wired"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQELZ8U6VUX8ln24RvqH0UGdJ6gosvfw_BVXUoXMVAHTC1v-4s_gpaDEYSOvq9WE1sV_3_I-em2q-T6kHVTMT1SOgSMnRCLTTVU9_uVMwQTzKgNTFlERsjbxg&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 17,
+            "title": "Powera The Legend Of Zelda Wired Controller For Nintendo Switch -",
+            "link": "https://www.ebay.com/itm/296518958102?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOopHGvHzoH2pNIdgPz21fMUIAy4xteSHnS10Kil24mFAH5fgy8GiYTU",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:5755698823638425448",
+            "product_id": "5755698823638425448",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=5755698823638425448",
+            "source": "eBay - cheeks519",
+            "price": "329.99 R + tax",
+            "extracted_price": 329.99,
+            "alternative_price": {
+                "price": "US$18.00 + tax",
+                "extracted_price": 18,
+                "currency": "US$"
+            },
+            "extensions": [
+                "Wired",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQKSLmONva-lV3iVw1ge647G2q64Ru7tHK1B_Q1ROlDjIxuRSZ7t-tvMfDpAUhUBpUr9XN2ehtw8QkgIZBooSvWAdIue-tYJl9oAEI8knFSn4iy4ahJ5bt5Dw&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 18,
+            "title": "Nintendo Switch Legend Of Zelda Link Gamecube Style Wired Fight Pad Pro ...",
+            "link": "https://www.ubuy.mu/en/product/1GMRJIIHC-pdp-wired-fight-pad-pro-for-nintento-switch-jiggly-puff-edition-500-100-na-d12-nintendo-switch",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:10825381608122071206",
+            "product_id": "10825381608122071206",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=10825381608122071206",
+            "source": "Ubuy",
+            "price": "1074.4 R",
+            "extracted_price": 1074.4,
+            "alternative_price": {
+                "price": "MUR 2,732.00",
+                "extracted_price": 2732,
+                "currency": "MUR"
+            },
+            "rating": 4.4,
+            "reviews": 97,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "GameCube",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRX5CnPM2refZvmhVlULhWf87T-DXUXD6YobkBRmtyHslb4_9NqjWh_SLnzmmqfC1UPFg_VtMeuxzSIWqHCIRJpPGxolpKq&usqp=CAE",
+            "delivery": "R 178.94 delivery"
+        },
+        {
+            "position": 19,
+            "title": "Faceoff Deluxe Wired Pro Controller for Nintendo Switch Zelda Breath of the Wild",
+            "link": "https://www.u-buy.be/en/product/1PSKB2PS8-pdp-faceoff-deluxe-wired-pro-controller-for-nintendo-switch-500-069-na-lz00-nintendo-switch?srsltid=AfmBOoqL7Q6lMoeZJ6f3T57YHLMEBBO4dBlU6FfurMR1Pj59Oe7REKKxx44",
+            "product_link": "https://www.google.co.za/shopping/product/9629305469606548696?gl=za",
+            "product_id": "9629305469606548696",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=9629305469606548696",
+            "source": "Ubuy",
+            "price": "1336.73 R",
+            "extracted_price": 1336.73,
+            "alternative_price": {
+                "price": "€67.00",
+                "extracted_price": 67,
+                "currency": "€"
+            },
+            "rating": 3.8,
+            "reviews": 16,
+            "extensions": [
+                "With Feedback",
+                "Wired",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzcTr9MEUjYCSKspT5EXqj74RxW8cXn8eVY75AtB4UoT8LiSRdMB9ivOrJPn7-IhhrTvFoPl8R8annPJQmW8y-ZnuOBRqdzmDwOxcEpf23&usqp=CAE",
+            "delivery": "R 199.51 delivery"
+        },
+        {
+            "position": 20,
+            "title": "The Legend of Zelda Wireless Classic Controller for Nintendo Switch",
+            "link": "https://www.discovery-japan.me/category/select/pid/70764/language/en/currency/JPY?srsltid=AfmBOoo91dYlYFacW1ImjCYe1XVScMn-jLWSjycDRujLqOPDno-8ysxIa-I",
+            "product_link": "https://www.google.co.za/shopping/product/6171562941793602560?gl=za",
+            "product_id": "6171562941793602560",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=6171562941793602560",
+            "number_of_comparisons": "4",
+            "comparison_link": "https://www.google.co.za/shopping/product/6171562941793602560/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:15181265142972481565_0,pid:16719570638499251217,rsk:CID_6171562941793602560&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECLwO",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15181265142972481565_0%2Cpid%3A16719570638499251217%2Crsk%3ACID_6171562941793602560&gl=za&offers=1&product_id=6171562941793602560&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECLwO",
+            "source": "Discovery Japan Mall",
+            "price": "1028.07 R",
+            "extracted_price": 1028.07,
+            "rating": 4.4,
+            "reviews": 5,
+            "extensions": [
+                "Wireless",
+                "Gamepad",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS24pKRWchriEgpYr69lCaFGni8r2m5qgYSuhaH7Co6TNoAPDrvmqLRttGrCluHEAeclFsYZyD6gYnH4yLJK47_g1_I787qojWXirmG9GQ&usqp=CAE",
+            "delivery": "R 1,293.84 delivery"
+        },
+        {
+            "position": 21,
+            "title": "Nintendo Switch Usb-c Wireless Horipad Zelda By Hori - Officially Licensed By ...",
+            "link": "https://www.ubuy.com.co/en/product/1C1N9N55M-nintendo-switch-wireless-horipad-gray-by-hori-officially-licensed-by-nintendo?srsltid=AfmBOooMFp2AxUx_oHPa8uJjaJ8iMMQUNh4yeiYMRjY-9uKsBXd_zsm_5PQ",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:4013236801359870276",
+            "product_id": "4013236801359870276",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=4013236801359870276",
+            "source": "Ubuy",
+            "price": "2060.31 R",
+            "extracted_price": 2060.31,
+            "alternative_price": {
+                "price": "COP 451,209.00",
+                "extracted_price": 451209,
+                "currency": "COP"
+            },
+            "rating": 4.6,
+            "reviews": 195,
+            "extensions": [
+                "Wireless",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQfhCTw-ma-opIeiGjNtlnF3xV5bGUx-kMqKPgFxc1sUuf26XbwkQYE_lMEyCusaZqmHfEUBG2N7fyhDOzc_Xm7IReuGpPt&usqp=CAE",
+            "delivery": "R 182.65 delivery"
+        },
+        {
+            "position": 22,
+            "title": "Nintendo Switch Controller Legend Of Zelda Tears Of The Kingdom",
+            "link": "https://www.ebay.com/itm/276390790076?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:1673507121678919701",
+            "product_id": "1673507121678919701",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=1673507121678919701",
+            "source": "eBay",
+            "price": "1374.95 R + tax",
+            "extracted_price": 1374.95,
+            "alternative_price": {
+                "price": "US$75.00 + tax",
+                "extracted_price": 75,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpWwAd4JiD1VtkAXVDFYDBa5ZAw3xQnCdojmKaaE8H1mGz_kJz0EeN49HvZvyjXJUUB6983_IC6pKza8OyDxGaR38H-w4jlRS9r-KAVL3_W6l7-W7LiKUv&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 23,
+            "title": "Powera Nintendo Switch Wired Controller Plus Zelda: Breath Of The Wild | Ubuy",
+            "link": "https://www.ubuy.co.th/en/product/2ZSBVAZS-powera-wired-controller-plus-super-mario-nintendo-switch-red?srsltid=AfmBOorMewItu-clbSx1MNO078rTpmmSQGYSx6EsC0DJeLFGMYV9EZV-fR0",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:5653477243924468438",
+            "product_id": "5653477243924468438",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=5653477243924468438",
+            "source": "Ubuy",
+            "price": "2940.54 R",
+            "extracted_price": 2940.54,
+            "alternative_price": {
+                "price": "THB 5,818.00",
+                "extracted_price": 5818,
+                "currency": "THB"
+            },
+            "rating": 4.5,
+            "reviews": 375,
+            "extensions": [
+                "Wired",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRHZJ8TUmH9cPfHOm2bJZtQpZmyXA-ulrQvVITtF7jvi1aBgmZPgVVo9NvyADMpQSL7KM7ZLM0Wa4sp_i9ePsOpJowYzzHSvMkqe4otF1fZ&usqp=CAE",
+            "delivery": "R 175.89 delivery"
+        },
+        {
+            "position": 24,
+            "title": "Pdp Gaming Zelda Wired Pro Controller Faceplate: Blackgold - Nintendo Switch | Ubuy",
+            "link": "https://www.ubuy.ge/en/product/8A5UCDKW-pdp-nintendo-switch-black-camo-faceoff-wired-pro-controller-500-119-nintendo-switch?srsltid=AfmBOoqlR2Rd4tn_SZdwnMY67lTVDHANMYr4i999MYcEmnzTmyYaCWf_6ds",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:219994023577385189",
+            "product_id": "219994023577385189",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=219994023577385189",
+            "source": "Ubuy",
+            "price": "1505.9 R",
+            "extracted_price": 1505.9,
+            "alternative_price": {
+                "price": "GEL 223.00",
+                "extracted_price": 223,
+                "currency": "GEL"
+            },
+            "rating": 3.8,
+            "reviews": 16,
+            "extensions": [
+                "Wired",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRhwsdM-WPx5z0q9ZNtlBqM31J_UPE8DjCcCnUMNsFYaUrUxVGoKyfQ8ceBFHBevdOLAmSGV7Jfm9Qi75uKLBm7pVqnGQOHWencUrYdR5DPGNk8a3gzRqdRlA&usqp=CAE",
+            "delivery": "R 182.33 delivery"
+        },
+        {
+            "position": 25,
+            "title": "Nintendo Switch Wired Controller Plus - Zelda: Breath of The Wild Edition",
+            "link": "https://www.u-buy.com.au/product/2ZSBVAZS-powera-wired-controller-plus-super-mario-nintendo-switch-red?srsltid=AfmBOordWoSqI2b5xcyA5NOAi1eJelrNKk1pzwRUUKX7fNcu_Y6_A57Vtng",
+            "product_link": "https://www.google.co.za/shopping/product/18271511152077491019?gl=za",
+            "product_id": "18271511152077491019",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=18271511152077491019",
+            "source": "Ubuy",
+            "price": "932.45 R",
+            "extracted_price": 932.45,
+            "alternative_price": {
+                "price": "A$76.00",
+                "extracted_price": 76,
+                "currency": "A$"
+            },
+            "rating": 4.5,
+            "reviews": 375,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTKHFjx3AzNYchfCnJdomuPW36GNhIp75znaIcGZIa33O_kTp4yihGZmVU4DIz5r_9_CLqkL0pcbUFHlx1b9OqAITfU6eNyW2LWN62WEEhu4lI0frP5TFae-Q&usqp=CAE",
+            "delivery": "R 184.04 delivery"
+        },
+        {
+            "position": 26,
+            "title": "Powera Enhanced Wireless Controller for Nintendo Switch Legend of Zelda - Gold Rider",
+            "link": "https://www.ebay.com/itm/204800747682?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorbKAtIIHQ5pvNUwkRmD2VU3DiQIfDoklfxsbyi5r3OWPIFOH28nzM",
+            "product_link": "https://www.google.co.za/shopping/product/844648214975658512?gl=za",
+            "product_id": "844648214975658512",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=844648214975658512",
+            "number_of_comparisons": "5+",
+            "comparison_link": "https://www.google.co.za/shopping/product/844648214975658512/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:15563003911525503616_0,pid:4352531844023275903,rsk:PC_3671314000581967180&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECJ4P",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15563003911525503616_0%2Cpid%3A4352531844023275903%2Crsk%3APC_3671314000581967180&gl=za&offers=1&product_id=844648214975658512&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECJ4P",
+            "source": "eBay - duckdeals23",
+            "price": "695.72 R + tax",
+            "extracted_price": 695.72,
+            "alternative_price": {
+                "price": "US$37.95 + tax",
+                "extracted_price": 37.95,
+                "currency": "US$"
+            },
+            "rating": 4.2,
+            "reviews": 2892,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIfNQ8qudjX1B1xcC2QZnHx5lhpf_lvgkhFMOXBF30NTVmF70Ef7Dh_VTrnRlJt6FjeE9I4KZEvp-0Hzgyc7vuLaCrVUCTa6iYXG0N90jqq62x8RrpAWsE3A&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 27,
+            "title": "Nintendo Switch Deluxe Faceoff Controller Zelda Breath of The Wild | Switch",
+            "link": "https://www.rarewaves.com/products/0708056061951-switch-breath-of-wild-faceoff-deluxe-wired-pro-controller?variant=40864633094241&currency=GBP&utm_medium=product_sync&utm_source=google&utm_campaign=sag_organic&srsltid=AfmBOor9YjEypKAOF1x-bKYDsQxR-rMEZxs1C0bXmKThbz1XjPJ0CuS0AqQ",
+            "product_link": "https://www.google.co.za/shopping/product/9629305469606548696?gl=za",
+            "product_id": "9629305469606548696",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=9629305469606548696",
+            "source": "Rarewaves",
+            "price": "946.38 R",
+            "extracted_price": 946.38,
+            "alternative_price": {
+                "price": "£39.97",
+                "extracted_price": 39.97,
+                "currency": "£"
+            },
+            "rating": 3.8,
+            "reviews": 16,
+            "extensions": [
+                "With Feedback",
+                "Wired",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS0pJMbw6WwXpgc49SOn65eOsz0B5NrsqNB0wb4j29Ym_6dtE8pNfKlcf5aewBOdt3PENuWxZ4IAQbiMcXSs2_E2CxKmz3pd0m9NSLJRl18By3QjDLDoFiF&usqp=CAE",
+            "delivery": "R 107.73 delivery"
+        },
+        {
+            "position": 28,
+            "title": "Official Nintendo Switch Pro Controller The Legend Of Zelda Tears Of",
+            "link": "https://www.ebay.com/itm/386206425168?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:17609125149441704784",
+            "product_id": "17609125149441704784",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=17609125149441704784",
+            "source": "eBay",
+            "price": "1649.94 R + tax",
+            "extracted_price": 1649.94,
+            "alternative_price": {
+                "price": "US$90.00 + tax",
+                "extracted_price": 90,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwgAXKSCuIcBe2W9fparMVkqVAxzr8uTcwn13sQXrGMlnsgdqzU7jvKInKTtNcFZUar2OWN8H5GLLDVsiDMG73bTtQ-APR9apSiysWOKqL&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 29,
+            "title": "The Legend of Zelda: Tears of the Kingdom Grip Controller Fit Switch Hori Japan New",
+            "link": "https://tokyogamestory.com/en/switch-accessories/7749-split-pad-fit-for-nintendo-switch-hori-the-legend-of-zelda-tears-of-the-kingdom-japan-new-4961818036697.html",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:16640620808827103660",
+            "product_id": "16640620808827103660",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=16640620808827103660",
+            "source": "Tokyo Game Story",
+            "price": "1097.11 R",
+            "extracted_price": 1097.11,
+            "alternative_price": {
+                "price": "€54.99",
+                "extracted_price": 54.99,
+                "currency": "€"
+            },
+            "extensions": [
+                "Wired",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ9lsbbzS1sZFvHM_h3ksHgg197oFsjoqAd07-Uxn3K7R3-iswOZdYS1hMafjJuA2Ew_nZvI6AauIYReiGZbqV5UEThk0fzKUfgNqNvIk9SkDS3F0Czx1SY&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 30,
+            "title": "Hori D-pad Controller L Zelda Officially Licensed - Nintendo Switch",
+            "link": "https://www.ubuy.com.co/en/product/1NH6C0K9G-hori-nintendo-switch-d-pad-controller-l-pikachu-nintendo-switch?srsltid=AfmBOop51txhvHyhjSQ2CUX3oGGOc8oembXhB5JJbTMV8zkhaY9b_7bZWrU",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:676944615994318266",
+            "product_id": "676944615994318266",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=676944615994318266",
+            "source": "Ubuy",
+            "price": "1271.26 R",
+            "extracted_price": 1271.26,
+            "alternative_price": {
+                "price": "COP 278,406.00",
+                "extracted_price": 278406,
+                "currency": "COP"
+            },
+            "rating": 4,
+            "reviews": 149,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRt08YkLJ_6ty0uFZbFBojfk2WVTJLXrf7QiRl9on3hCFeGfeHx6B4DUl6jJkz6y-BXaLtw0tEs1Cv5Ypg3CXjT8z6OrUb2cw&usqp=CAE",
+            "delivery": "R 182.65 delivery"
+        },
+        {
+            "position": 31,
+            "title": "Replacement Pro Controller Compatible with Nintendo Switch",
+            "link": "https://www.takealot.com/replacement-pro-controller-compatible-with-nintendo-switch/PLID53565978",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:4662512369064561539",
+            "product_id": "4662512369064561539",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=4662512369064561539",
+            "source": "takealot.com",
+            "price": "599.0 R",
+            "extracted_price": 599,
+            "rating": 4.7,
+            "reviews": 34817,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTf-eA2ptjTCAqP8Vb8puzkNUSK2m5oz5FhDq0DmMZPItddh7BVKKsDpMa21m-BNgDIbzCa7josLquy-DxP-Qsj29o1hbUY5OuGyyt4CK2hvfcIfoQ55oWFAQ&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 32,
+            "title": "Zelda D-Pad Controller for Nintendo Switch | Nintendo Distributor SA",
+            "link": "https://www.loot.co.za/product/hori-d-pad-joy-con-controller-for-nintendo-switch-the/lxyj-5910-g700?srsltid=AfmBOooeLhY9VMevBbJqUtMAcmkhYTIB7j-ifUaj0vn9UOYJKL4j9G8QXXY",
+            "product_link": "https://www.google.co.za/shopping/product/625405756649348497?gl=za",
+            "product_id": "625405756649348497",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=625405756649348497",
+            "number_of_comparisons": "3",
+            "comparison_link": "https://www.google.co.za/shopping/product/625405756649348497/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:14715119047029656732_0,pid:3763680319208622431,rsk:PC_13375502527360865043&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECP0P",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A14715119047029656732_0%2Cpid%3A3763680319208622431%2Crsk%3APC_13375502527360865043&gl=za&offers=1&product_id=625405756649348497&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECP0P",
+            "source": "Loot.co.za",
+            "price": "643.0 R",
+            "extracted_price": 643,
+            "rating": 4,
+            "reviews": 149,
+            "extensions": [
+                "With Feedback",
+                "Wired"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVI6-hB89yM8gP2AJ_W_VO_KcxXRZvF1HCl3-E9kkAi3FbV5vi62YcHv8m_7tkQB3Wt-fGdWn798UTgnFsYkKL_dBKUPYWqnpKPgh5K-M&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 33,
+            "title": "Powera Enhanced Wired Controller for Nintendo Switch The Legend of Zelda",
+            "link": "https://retrovgames.com/nintendo-switch-powera-enhanced-wired-controller-the-legend-of-zelda/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=GMT&srsltid=AfmBOorYULVPlmJtkpxk9dbqgk1KQDB3Icl7K7qRSn20N1Knc4Vwtc66A1M",
+            "product_link": "https://www.google.co.za/shopping/product/18329751290792893011?gl=za",
+            "product_id": "18329751290792893011",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=18329751290792893011",
+            "number_of_comparisons": "5+",
+            "comparison_link": "https://www.google.co.za/shopping/product/18329751290792893011/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:1124825493672625051_0,pid:1027802575347082404,rsk:PC_11788935115310518089&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECI8Q",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A1124825493672625051_0%2Cpid%3A1027802575347082404%2Crsk%3APC_11788935115310518089&gl=za&offers=1&product_id=18329751290792893011&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECI8Q",
+            "source": "Retro vGames",
+            "price": "641.09 R + tax",
+            "extracted_price": 641.09,
+            "alternative_price": {
+                "price": "US$34.97 + tax",
+                "extracted_price": 34.97,
+                "currency": "US$"
+            },
+            "second_hand_condition": "refurbished",
+            "rating": 4.3,
+            "reviews": 742,
+            "extensions": [
+                "With Feedback",
+                "Wired"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQU0vvs_Wm_sZolEK6l1VlrsyNgSjTvI0P9wrOfSw2yHq2iYMVlDrGvnL74Ej3RmTMrAyXe0yiYTjUlRxjb6swoybErMDdiXnmOYgyfspYoMLeX_xBWH4N51w&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 34,
+            "title": "Nintendo Switch Pro Controller - The Legend Of Zelda: Tears Of The",
+            "link": "https://www.ebay.com/itm/166842285137?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:12944904620581214805",
+            "product_id": "12944904620581214805",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=12944904620581214805",
+            "source": "eBay",
+            "price": "1649.02 R + tax",
+            "extracted_price": 1649.02,
+            "alternative_price": {
+                "price": "US$89.95 + tax",
+                "extracted_price": 89.95,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfcRVCxofwVyX0U50oUXNLTN51PE-jALikkwRGg1GG1rtEk0_f8uRK-76kL5e76g9mR0DC7Q-55JJ1FYi2D4Fh8fZ_XegMjpWp0ggryvU&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 35,
+            "title": "PowerA Wired Controller for Nintendo Switch - Zelda: Breath of The Wild",
+            "link": "https://www.ubuy.com.sa/en/product/2ZSBVAZS-powera-wired-controller-plus-super-mario-nintendo-switch-red?srsltid=AfmBOooQzQo-o-M1x7QlZkE425pscYCYn-RZHvQo20CVxeyRNxeEkE2I4gk",
+            "product_link": "https://www.google.co.za/shopping/product/7467265444823566339?gl=za",
+            "product_id": "7467265444823566339",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7467265444823566339",
+            "source": "Ubuy",
+            "price": "2810.43 R",
+            "extracted_price": 2810.43,
+            "alternative_price": {
+                "price": "SAR 575.00",
+                "extracted_price": 575,
+                "currency": "SAR"
+            },
+            "rating": 4.3,
+            "reviews": 2056,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0QyjlQSckwojmAV45eIYYmTeUDBcNebNcZ8gtHx7tmJDncE4xnV5qnYq326eTMVfsIfXf7oJGdd826XG23nXddxCkSLstPcrhMMoQ6yFWSO3kQjQN4AIScA&usqp=CAE",
+            "delivery": "R 185.73 delivery"
+        },
+        {
+            "position": 36,
+            "title": "Hori Pad Controller for Nintendo Switch The Legend of Zelda",
+            "link": "https://www.discovery-japan.me/category/select/pid/70446/language/en/currency/JPY?srsltid=AfmBOopZ7c1mq2-Pk8kDsRN2-oHa7nPEYUjM97YgaA4PDtZ42c85zQ7_3g0",
+            "product_link": "https://www.google.co.za/shopping/product/7389778368074195079?gl=za",
+            "product_id": "7389778368074195079",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7389778368074195079",
+            "source": "Discovery Japan Mall",
+            "price": "1332.07 R",
+            "extracted_price": 1332.07,
+            "rating": 5,
+            "reviews": 1,
+            "extensions": [
+                "With Feedback",
+                "Wired",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ_SWOkLHd7Tv5WuZTYPDaaM4Al-KLlAiHdPc4REsNFG1B6p0AuE305zp4rhwKyhMvkgs7-4AVU9vRYBXEa-vQGbaIJOeOM96SudjQq6v4&usqp=CAE",
+            "delivery": "R 594.46 delivery"
+        },
+        {
+            "position": 37,
+            "title": "NS Switch Pro Bluetooth Wireless Controller",
+            "link": "https://xmods.co.za/nintendo/981-ns-switch-pro-bluetooth-wireless-controller.html?sfdr_ptcid=6323_617_605443132&sfdr_hash=7a8f338d11fa3cf1d11b8a049cf1deb4",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:10390829023823377347",
+            "product_id": "10390829023823377347",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=10390829023823377347",
+            "source": "XMODS",
+            "price": "755.0 R",
+            "extracted_price": 755,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSad8vgcn9jG5IqW4ZGtEU31KPq9QNPTkxv9WDlrw5-1z_GZhibRYQRNbf0q_gTaO2XS3IQqmzPKyYwGgD9IYC0nAlMaZ7tT4uxFCTn24iuyfUBFDk5CS9sYg&usqp=CAE",
+            "delivery": "R 119.00 delivery"
+        },
+        {
+            "position": 38,
+            "title": "Wired Controller For Nintendo Switch - Chrome Zelda",
+            "link": "https://www.u-buy.be/en/product/2QDJUBJS-wired-controller-for-nintendo-switch-donkey-kong?srsltid=AfmBOoq3zvJKSJGqIIhSwsprN8NwLaE0OqY1VuNDjPf1UpaMIQI4Rr4VG8w",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:8479555552687970341",
+            "product_id": "8479555552687970341",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=8479555552687970341",
+            "source": "Ubuy",
+            "price": "837.95 R",
+            "extracted_price": 837.95,
+            "alternative_price": {
+                "price": "€42.00",
+                "extracted_price": 42,
+                "currency": "€"
+            },
+            "old_price": "· Was R 1,057.41",
+            "extracted_old_price": 1057.41,
+            "rating": 4.3,
+            "reviews": 2056,
+            "extensions": [
+                "Wired",
+                "Switch",
+                "R 0 minimum order",
+                "PRICE DROP"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR6R581Gb0YE7OA5204YBb7ZhDq0MtZ4_EDLhbJDm97-Uao6TyQC5nIBOogUTO1sB0U0daA3WG-TfkN-72AEeLi9wioloUsGg&usqp=CAE",
+            "tag": "PRICE DROP",
+            "delivery": "R 199.51 delivery"
+        },
+        {
+            "position": 39,
+            "title": "Nintendo Switch Pro Controller-legend Of Zelda: Tears Of The",
+            "link": "https://www.ebay.com/itm/386243346593?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:12859574178810452226",
+            "product_id": "12859574178810452226",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=12859574178810452226",
+            "source": "eBay",
+            "price": "2016.59 R + tax",
+            "extracted_price": 2016.59,
+            "alternative_price": {
+                "price": "US$110.00 + tax",
+                "extracted_price": 110,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ9LIOq7JY3ZqoF1fWr8cAL82WfwWOhVlCY3SDEePY079mJw4XrCagrjhD6YWfRqlPVVtqwkdZaDyPN_zchMCE0nzHRPOLoodlK07BwU6Hu&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 40,
+            "title": "HORI D-Pad Controller (L) (Zelda) Officially Licensed - Nintendo Switch",
+            "link": "https://global.microless.com/product/hori-d-pad-controller-l-zelda-officially-licensed-nintendo-switch/?currency=usd",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:18119533306597582662",
+            "product_id": "18119533306597582662",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=18119533306597582662",
+            "source": "Microless.com",
+            "price": "647.88 R + tax",
+            "extracted_price": 647.88,
+            "alternative_price": {
+                "price": "US$35.34 + tax",
+                "extracted_price": 35.34,
+                "currency": "US$"
+            },
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKyFs09fyN-pWyg9yFfggy8ocoYzjaghtgidj4yWTTbnsiIYDKx5rNh3ALvUh4FgP1IvtU1S41ma2nPnu0pB1m870GWAUQ1FGqA0jebkP_&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 41,
+            "title": "Hori Zelda Battle Nintendo Switch Gamepad Black",
+            "link": "https://www.tradeinn.com/techinn/en/hori-zelda-battle-nintendo-switch-gamepad/137814381/p?utm_source=google_products&utm_medium=merchant&id_producte=11842424&country=za&srsltid=AfmBOopG6GGkspp2kKY5rZG5OuUxy4HgD2YyTOGi0aHVrbJuoPPWF8LJbrQ",
+            "product_link": "https://www.google.co.za/shopping/product/8607355334927115391?gl=za",
+            "product_id": "8607355334927115391",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=8607355334927115391",
+            "number_of_comparisons": "2",
+            "comparison_link": "https://www.google.co.za/shopping/product/8607355334927115391/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:9208989314208445257_0,pid:11681518241874762951,rsk:PC_3093828031892613640&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECJER",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A9208989314208445257_0%2Cpid%3A11681518241874762951%2Crsk%3APC_3093828031892613640&gl=za&offers=1&product_id=8607355334927115391&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECJER",
+            "source": "Techinn.com",
+            "price": "425.49 R",
+            "extracted_price": 425.49,
+            "rating": 4.5,
+            "reviews": 196,
+            "extensions": [
+                "With Feedback",
+                "Wired",
+                "PC"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSbWou0wEFQOpFYXDsby2jzNwrHFmNGoLwVMquOtxt4kjeaWod43nFqjHGqdTQU8dcrYKAI9_6wZUTWC7tabZ5iWx4BbyQxMA2uz_8S6R7C0BSInEUpZjS4xMw&usqp=CAE",
+            "delivery": "R 288.99 delivery"
+        },
+        {
+            "position": 42,
+            "title": "Hori Nintendo Switch The Legend of Zelda: Tears of The Kingdom Grip Controller ...",
+            "link": "https://www.discovery-japan.me/category/select/pid/83613/language/en/currency/JPY?srsltid=AfmBOoomDhx0F2YmPCPaxKzr__U_JMtbCaKstdlMF-lWaFuSTMGL_sp10x8",
+            "product_link": "https://www.google.co.za/shopping/product/8448224726958737428?gl=za",
+            "product_id": "8448224726958737428",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=8448224726958737428",
+            "number_of_comparisons": "3",
+            "comparison_link": "https://www.google.co.za/shopping/product/8448224726958737428/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:2929526072651104604_0,pid:451553994267734732&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECKER",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A2929526072651104604_0%2Cpid%3A451553994267734732&gl=za&offers=1&product_id=8448224726958737428&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECKER",
+            "source": "Discovery Japan Mall",
+            "price": "797.75 R",
+            "extracted_price": 797.75,
+            "extensions": [
+                "With Feedback",
+                "Wireless",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS2_dxfeA1MXrD4Bq3T7_iens2z_2l2DRCvGf-WnYND61NejYcIA_xnu9g0qu0Sqkse81jP8AzIA2b7A6BymIjn6K4oozkLxCIIzM9Pai0e&usqp=CAE",
+            "delivery": "R 769.31 delivery"
+        },
+        {
+            "position": 43,
+            "title": "Wireless Game Console For Switch Pro Controller Gamepad For Pc Compatible",
+            "link": "https://www.makro.co.za/games-gaming/video-games/accessories/controllers/wireless-game-console-for-switch-pro-controller-gamepad-for-pc-compatible/p/e38cb226-a177-4435-86d5-7274635de243?srsltid=AfmBOoq_e-CGhq7rUxtskHRGIpgmqOwAUqNhAn9gzSYOd2Tj8cBq35kvUEE",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:5657500763133278281",
+            "product_id": "5657500763133278281",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=5657500763133278281",
+            "source": "Makro",
+            "price": "600.0 R",
+            "extracted_price": 600,
+            "extensions": [
+                "Wireless",
+                "Gamepad",
+                "PC"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR6cyL5yZf1DCX__ViIhWjnJOXAsZw9sllyULqiMl04wFDCdR66yN_wmsYu6q3q9etV-D4iJDGYs42KshJ2aSqQLcGWyn7dLefKbu5JOLOS9WcmyxRPQKQY-g&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 44,
+            "title": "Replacement Nintendo Switch/PC/Android Bluetooth Controller with NFC",
+            "link": "https://www.takealot.com/replacement-nintendo-switch-pc-android-bluetooth-controller-with/PLID90165632",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:15060862620473614678",
+            "product_id": "15060862620473614678",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=15060862620473614678",
+            "source": "takealot.com",
+            "price": "550.0 R",
+            "extracted_price": 550,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTFAK0Ik339aKevMl_h1Fy3YbB1L9y2ILOTgSmZYtCoi8ZjyHKTBvzKviT2PMdpXFtpQ60XEX7kRoCAwN3kTLREYKk5zwkbpW1N-hOYaZ6b7Tkp0r5p05gtcA&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 45,
+            "title": "Nintendo Switch Hori Battle Pad - Zelda",
+            "link": "https://www.lovetechhatewaste.com/product/hori-super-smash-bros-switch-zelda-battle-pad-used-nintendo-switch-game/",
+            "product_link": "https://www.google.co.za/shopping/product/8607355334927115391?gl=za",
+            "product_id": "8607355334927115391",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=8607355334927115391",
+            "source": "Love Tech Hate Waste",
+            "price": "970.77 R",
+            "extracted_price": 970.77,
+            "alternative_price": {
+                "price": "£41.00",
+                "extracted_price": 41,
+                "currency": "£"
+            },
+            "second_hand_condition": "used",
+            "rating": 4.5,
+            "reviews": 196,
+            "extensions": [
+                "With Feedback",
+                "Wired",
+                "PC",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqxuhT7yYNea6MpRxEousZ0vPO6lEeK9eD5fswyL_USdSCZemgSqkWr0lsRMZcGdIUx5J4uVfL7DulJa_zyyyPrg7UCJHERl69eS9ZEKRwcHG8yU4X_iRR&usqp=CAE",
+            "delivery": "R 307.57 delivery"
+        },
+        {
+            "position": 46,
+            "title": "NINTENDO SWITCH PRO CONTROLLER",
+            "link": "https://www.incredible.co.za/nintendo-switch-pro-controller?srsltid=AfmBOoqU3tugChZCMh2l3qVuDlnCcqvz-UrTW6_MING5yvr3Ikcq1QcgOHA",
+            "product_link": "https://www.google.co.za/shopping/product/809801839814562095?gl=za",
+            "product_id": "809801839814562095",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=809801839814562095",
+            "number_of_comparisons": "10+",
+            "comparison_link": "https://www.google.co.za/shopping/product/809801839814562095/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:15778450832202843122_0,pid:1505463824734594411,rsk:PC_12472248583314663142&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECOAR",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15778450832202843122_0%2Cpid%3A1505463824734594411%2Crsk%3APC_12472248583314663142&gl=za&offers=1&product_id=809801839814562095&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECOAR",
+            "source": "Incredible",
+            "price": "1699.0 R",
+            "extracted_price": 1699,
+            "rating": 4.7,
+            "reviews": 34817,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSunvjxXSgXjygCeIYAQ-ntX-yF5eg0Tj7MJ8QGz_01EnEncInuizM7AImjxGYjE7t3E65TMp5amYrjFz3Pa0UpckG5KpWMOm8jGOJWB2wBdPgcx9kkT1c8wa0&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 47,
+            "title": "Nintendo Switch Bluetooth Wireless Pro Controller Camo",
+            "link": "https://xmods.co.za/nintendo/3501-nintendo-switch-bluetooth-wireless-pro-controller-camo.html?sfdr_ptcid=6323_617_163040532&sfdr_hash=93f2bd59c45afedebc69f81dfee3e90d",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:7594688630043518613",
+            "product_id": "7594688630043518613",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7594688630043518613",
+            "source": "XMODS",
+            "price": "585.0 R",
+            "extracted_price": 585,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS1Z5jwvc5vtqIYFOXGnpE2e87Rxq4CL6S7JjllyqXb4rYbGO0aDDpgf4-Fk64YOsv2_JsNkGTNZ5sPMx19Zb13B7Jy83ScPx9q9aJgZhKE9nnjSze74bRF&usqp=CAE",
+            "delivery": "R 119.00 delivery"
+        },
+        {
+            "position": 48,
+            "title": "Nintendo Switch Pro Controller Legend of Zelda Tears of the Kingdom",
+            "link": "https://www.ebay.com/itm/225593109126?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:9640353262463514599",
+            "product_id": "9640353262463514599",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=9640353262463514599",
+            "source": "eBay",
+            "price": "1924.74 R + tax",
+            "extracted_price": 1924.74,
+            "alternative_price": {
+                "price": "US$104.99 + tax",
+                "extracted_price": 104.99,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTundAEjX5e84YzHxmvFiXffBsEcKr7qDiLkG2Jly9hsD-v4snrLLjPDia3MRpoctlT6-FdTL9t8LfHYn5LWFrn6dG-UrpJ6iXBEzIyxxuH&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 49,
+            "title": "Nintendo Switch Pro Controller - The Legend Of Zelda: Totk+art Print",
+            "link": "https://www.ebay.com/itm/266321036759?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:7728992230027070131",
+            "product_id": "7728992230027070131",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7728992230027070131",
+            "source": "eBay",
+            "price": "2199.92 R + tax",
+            "extracted_price": 2199.92,
+            "alternative_price": {
+                "price": "US$120.00 + tax",
+                "extracted_price": 120,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQEBL36njHmkZAzs9G3UU8EjbCPDZCsqBSgUJsjBQwchIjhGGE0c5PlWkki7wDnhlJ46mRBHcv6duwxnt3418yeTEnRa-ZitrKQtMWvqvM&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 50,
+            "title": "Nintendo Switch Pro Controller - Zelda: Tears Of The Kingdom Edition",
+            "link": "https://www.ebay.com/itm/115788808290",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:15938428616377373237",
+            "product_id": "15938428616377373237",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=15938428616377373237",
+            "source": "eBay",
+            "price": "2126.4 R + tax",
+            "extracted_price": 2126.4,
+            "alternative_price": {
+                "price": "US$115.99 + tax",
+                "extracted_price": 115.99,
+                "currency": "US$"
+            },
+            "extensions": [
+                "With Feedback",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSlrJGS34W1iY2NpB21OUC7dzghxNDHo-0JCsWEocMVfVyrqEJbaR3rOh6bzUDKehQAatczlb5lq-WgBCPq110VxFfTmN3iV2XbPMH0mjI&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 51,
+            "title": "Pro Game Pad Controller For Nintendo Switch",
+            "link": "https://www.takealot.com/pro-game-pad-controller-for-nintendo-switch/PLID91157446",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:5112419738913029493",
+            "product_id": "5112419738913029493",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=5112419738913029493",
+            "source": "takealot.com",
+            "price": "480.0 R",
+            "extracted_price": 480,
+            "rating": 4.7,
+            "reviews": 34817,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSVWHA8aC4QZXFRCHfMP597T9j9RujlgMB6qcCuGM6I6IoOZMum-Y8EvJal-e0_hgWADuwuLecRd7Jd6KwxmliL1u8n9bXvIN6jsRoSJkdPB8wj3Ve_rioH&usqp=CAE",
+            "delivery": "R 65.00 delivery"
+        },
+        {
+            "position": 52,
+            "title": "Nintendo Switch Pro Controller Legend Of Zelda Totk Tears Of The",
+            "link": "https://www.ebay.com/itm/305408388742?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:17662987195739753178",
+            "product_id": "17662987195739753178",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=17662987195739753178",
+            "source": "eBay",
+            "price": "2199.73 R + tax",
+            "extracted_price": 2199.73,
+            "alternative_price": {
+                "price": "US$119.99 + tax",
+                "extracted_price": 119.99,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ72d9NeHgiu20CDrEaZO5d0rYf48ZtJVVY-s22cIHdWMiy1Jv9_MXhdlrE2S-avYsO_M6RjuYhV6zsH0etGFmpyGctm04IsJJi891_lUeDTsJPfj0GkPMX&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 53,
+            "title": "Nintendo Switch Pro Controller The Legend Of Zelda Tears Of The",
+            "link": "https://www.ebay.com/itm/335334008168?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:1982763984390100112",
+            "product_id": "1982763984390100112",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=1982763984390100112",
+            "source": "eBay",
+            "price": "1246.44 R + tax",
+            "extracted_price": 1246.44,
+            "alternative_price": {
+                "price": "US$67.99 + tax",
+                "extracted_price": 67.99,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYpPLV574IqPaSK4zw0pB_VDQcqKD_T25huZeyLvSFD1ltum9ki_V-Kz8VImucEJOQUHLJIOrEf5isFXfBUvbwfP72tZ1pQ5rq26efxQbzfsqd4l0T0Qds&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 54,
+            "title": "Powera Enhanced Wireless Controller for Nintendo Switch - Zelda",
+            "link": "https://www.ebay.com/itm/235273975773?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOooPywH-fFiIdUWsIV-0I2GU8NnV_tv-upY19LHaJbzZqJyvy9wOXx0",
+            "product_link": "https://www.google.co.za/shopping/product/2732078922233638267?gl=za",
+            "product_id": "2732078922233638267",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=2732078922233638267",
+            "number_of_comparisons": "2",
+            "comparison_link": "https://www.google.co.za/shopping/product/2732078922233638267/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:16975320449851744666_0,pid:7999352968314963832,rsk:PC_3671314000581967180&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECN0S",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A16975320449851744666_0%2Cpid%3A7999352968314963832%2Crsk%3APC_3671314000581967180&gl=za&offers=1&product_id=2732078922233638267&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECN0S",
+            "source": "eBay - 4uclothesetc",
+            "price": "1008.3 R + tax",
+            "extracted_price": 1008.3,
+            "alternative_price": {
+                "price": "US$55.00 + tax",
+                "extracted_price": 55,
+                "currency": "US$"
+            },
+            "rating": 4.2,
+            "reviews": 2892,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcShnBCFSgiKb47f_-a424lF2hh89HmqnulRsev2b018P0SpgJaEzkWaWCPw5sJy5pwf0Fh4cCG7JvyqnRFiTwwPlLKg-lQhAarqO11wRHFOW6h5qe9jF64fYQ&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 55,
+            "title": "Powera Fusion Pro Nintendo Switch Gamepad Black",
+            "link": "https://www.tradeinn.com/techinn/en/powera-fusion-pro-nintendo-switch-gamepad/139222298/p?utm_source=google_products&utm_medium=merchant&id_producte=17346203&country=za&srsltid=AfmBOooureeKe2ro_gA7OtwSNho2p9jrHgavku8jUV2nnVhS18NZo0oPq1Y",
+            "product_link": "https://www.google.co.za/shopping/product/17207860178064258287?gl=za",
+            "product_id": "17207860178064258287",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=17207860178064258287",
+            "source": "Techinn.com",
+            "price": "2101.49 R",
+            "extracted_price": 2101.49,
+            "rating": 4,
+            "reviews": 111,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQqyt5bbrUpVOmmweF-ruTKuZfiKqFI5a2hWVI_i1eya9KRsleCQ7ckh98yGTdP_v1wpLkLMDR-gQYGXvQA_ht6RI_Jq4a30yvqoZUsDWjsN5I7mWHe4uc7&usqp=CAE",
+            "delivery": "R 576.49 delivery"
+        },
+        {
+            "position": 56,
+            "title": "nintendo Switch Pro Controller Legend Of Zelda Tears Of The",
+            "link": "https://www.ebay.com/itm/275858459463?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:1032398585658058268",
+            "product_id": "1032398585658058268",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=1032398585658058268",
+            "source": "eBay",
+            "price": "2279.66 R + tax",
+            "extracted_price": 2279.66,
+            "alternative_price": {
+                "price": "US$124.35 + tax",
+                "extracted_price": 124.35,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSq3-uabnjt6Qevcntp8euYmWMIfTKhPqlMgV0VLMmYzvP4hXelu8FNMhsACXxHkGAwDRDv8kym1r9vhkgfLzz2q8_u2htkR8r-WMO-Op0&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 57,
+            "title": "Nintendo Switch Legend of Zelda Controller Factory Sealed",
+            "link": "https://www.ebay.com/itm/225796952898?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOooj5NzRnKc4LkuOvPCxuRK3EYBBr4vZrfzT45ybWJ-ZgZLk3LLsStA",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:1775061893612111540",
+            "product_id": "1775061893612111540",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=1775061893612111540",
+            "source": "eBay - collectorsshoppe",
+            "price": "3666.35 R + tax",
+            "extracted_price": 3666.35,
+            "alternative_price": {
+                "price": "US$199.99 + tax",
+                "extracted_price": 199.99,
+                "currency": "US$"
+            },
+            "second_hand_condition": "used",
+            "extensions": [
+                "Wired",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGYZWI9DzxK8uvGPus6hNXSp8FcdVylE7GSS-xL-5lDkdDgaPLnLht6aBC3nX83wrS873VwVuCzfSxtqnuXa0dImDrNahFr_pxycVmLKM&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 58,
+            "title": "Nintendo Switch Zelda Fight Pad Pro Gamecube Style Controller Link Pdp",
+            "link": "https://www.ebay.com/itm/266869764189?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:9199658075846412648",
+            "product_id": "9199658075846412648",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=9199658075846412648",
+            "source": "eBay",
+            "price": "366.65 R + tax",
+            "extracted_price": 366.65,
+            "alternative_price": {
+                "price": "US$20.00 + tax",
+                "extracted_price": 20,
+                "currency": "US$"
+            },
+            "second_hand_condition": "used",
+            "rating": 4.4,
+            "reviews": 97,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSIi2was8c7-Bm7sOQ8yxOnj4ehKrGKTclTzv8eDI5B9M4emM-H1CsS4JT6MjD1EAw6oThVslNT9pv0LBcALqVknV3_TQJFKXt_rcWs3mQ&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 59,
+            "title": "Nintendo Switch Pro Controller Legend Of Zelda Tears Of The Kingdom",
+            "link": "https://www.ebay.com/itm/364759666838?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:3090601462140826719",
+            "product_id": "3090601462140826719",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=3090601462140826719",
+            "source": "eBay",
+            "price": "1649.94 R + tax",
+            "extracted_price": 1649.94,
+            "alternative_price": {
+                "price": "US$90.00 + tax",
+                "extracted_price": 90,
+                "currency": "US$"
+            },
+            "rating": 4.7,
+            "reviews": 1391,
+            "extensions": [
+                "Wireless",
+                "Gamepad",
+                "PC"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRRcv8hxkVE6LFRzjIK-niLbZLyuku8lakaw2BoaNEgogPsJ11mcJdzIhuRME2WDaPyn0WQzDjQE3h9vMiNBgW8vLYSpWW-rLl2xqWYdfk&usqp=CAE",
+            "delivery": "+Delivery"
+        },
+        {
+            "position": 60,
+            "title": "The Legend Of Zelda Nintendo Switch Controller",
+            "link": "https://www.ebay.com/itm/385850933636?chn=ps&mkevt=1&mkcid=28",
+            "product_link": "https://www.google.co.za/shopping/product/1?gl=za&prds=pid:13013491340624756818",
+            "product_id": "13013491340624756818",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=13013491340624756818",
+            "source": "eBay",
+            "price": "549.98 R + tax",
+            "extracted_price": 549.98,
+            "alternative_price": {
+                "price": "US$30.00 + tax",
+                "extracted_price": 30,
+                "currency": "US$"
+            },
+            "second_hand_condition": "used",
+            "extensions": [
+                "Wired",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTJpC0fs6PIDPexxjbtctp_i48oxd9rqhhB7PmKK0ibKjXg_5bMUXmZLPa0r11n8cHq8B4Vxy3Ic6weSHT2e1EN5JSxrXzl6tDLS7huJ1r_FeTzQ3C56ppU&usqp=CAE",
+            "delivery": "+Delivery"
+        }
+    ],
+    "categories": [
+        {
+            "title": "Filter by compatibility",
+            "filters": [
+                {
+                    "title": "Switch",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSQEVLcE-q7JTTlgcyC1VH3E42DQ-Ujb2DaLSS9QVa4Pi88OxH5XoYsM9ENU4vpdSXooHFVBUpeGh6tyCBBXHJzwEUzEW67RUr7bystZAeifvkYTHi0eTd_Xg&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728446%7C2946744&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkIyBMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728446%7C2946744"
+                },
+                {
+                    "title": "PC",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQowoRz3uuI7e1bpdXvGwIDfsbXN2IM22FsNxB8iAFW0Kr-QB-WjOZwxReR0nPDNmn-_VMsA9u81LHvcJ6YVCMQ_AEF5hPPXGVR-aXAIUP41MrxiPrPtIPN&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728446%7C729543&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkIyxMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728446%7C729543"
+                },
+                {
+                    "title": "GameCube",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTS2TxgJPI2nKLi7gf23KFkVNdnF0ZK4EfvZGJLgGf35CPOGB3EIPMfzj_OV_GUPRS_XgeQ6ij6D__QxwIXGce0yR85dFU3qeBKTNyaBWpN3LK6urausHZm&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728446%7C729544&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkIzhMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728446%7C729544"
+                }
+            ]
+        },
+        {
+            "title": "You might like",
+            "filters": [
+                {
+                    "title": "Wireless",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQUyUNECiZWJMe3Ioldmhv6bLhVTp1lBWvx7DIiffb6W4aaj8spHYzhU-Dpzf8XmZm0j-BlITnSWC-dKhLLDVuPHLUtZIi0hPZgEXvcT1I5XSSPUpBlCFxz&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728286%7C728287&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI1RMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728286%7C728287"
+                },
+                {
+                    "title": "Wired",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQW6sR4nI0oMr3hoJgBEHKdqgzuA76L3EwKw_uXYc-HgNDPp4M0P-q_A9VxP7XxCL_G4RAnQE9KCX1ja7F6RWtn8OvRvJojc1CacY1W9MiBrt1lGcaJr44G&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728286%7C728288&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI2BMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728286%7C728288"
+                },
+                {
+                    "title": "PowerA",
+                    "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQEze2Sp7hewM9fbfXHrGW7cRwyxTkBqkIED_7qGD9zXj91MxRihezbFLpXIAI2s3jA-vvHtYFH3E47tYpbFZdrSeodsAuqrJUEfxkaddC5HWS69wqpv3wPxA&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728167%7C2144548&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI2xMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728167%7C2144548"
+                },
+                {
+                    "title": "HORI",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQNCUCRo5C687nSH8XxzT3s33TyfEUDO649fI_I8dx8GhMyvc27vwA_Hys-QSg8Tk9NVfkGpWTsipYZ8v_PUwOSiQk69UiYaBP1Ta3yZiU&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728167%7C728174&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI3hMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728167%7C728174"
+                },
+                {
+                    "title": "PDP",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSNwtVasxLIp2TzDmzOIOKc998Vwu5a73yrvCY49NzOZammJUnggCYWMtpY8CvnemDvao-RC1cehL7R1Ah5hczm-3CQKSlATev1rVA49o877WtRfWmmZeHv&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:728167%7C908663&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI4RMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A728167%7C908663"
+                },
+                {
+                    "title": "Zelda",
+                    "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZXf9VjSSu2DFogDjQlgoAap3M-HWjSHXurJW5pmsJqueHdB5y7s8LjjSfB7OPxAJkOiFCHKotAgBF5eB2_5YAFfH-REuM8lfN5iJWd9s&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:1607274%7C1003638403&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI5BMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A1607274%7C1003638403"
+                },
+                {
+                    "title": "Black",
+                    "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_HkWD8QEeYkHQLhTovyFxM-bbAia_tF_Tz_2szMZgf_fi1hy7C2xTfY-BwPyTSrDOBK9T18X6Uba_oBAmUwG1s5OWbX3f1hrTGnX50nnr9qh8oT2N60xFSA&usqp=CAE",
+                    "link": "https://www.google.co.za/search?sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbm=shop&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbs=mr:1,pdtr0:1607274%7C1002324925&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8QwQkI5xMoAA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&tbm=shop&tbs=mr%3A1%2Cpdtr0%3A1607274%7C1002324925"
+                }
+            ]
+        }
+    ],
+    "featured_shopping_results": [
+        {
+            "position": 1,
+            "title": "Powera Enhanced Wireless Controller for Nintendo Switch Legend of Zelda - Gold Rider",
+            "link": "https://www.ebay.com/itm/204800747682?chn=ps&mkevt=1&mkcid=28&srsltid=AfmBOorX8UUEM9BCggEQ-MS44UqnksIyg6mo5O0M5VRFtTzJvvZKl6R25rQ",
+            "product_link": "https://www.google.co.za/shopping/product/844648214975658512?gl=za",
+            "product_id": "844648214975658512",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=844648214975658512",
+            "number_of_comparisons": "5+",
+            "comparison_link": "https://www.google.co.za/shopping/product/844648214975658512/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:15563003911525503616_0,pid:4352531844023275903,rsk:PC_3671314000581967180&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECNMM",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15563003911525503616_0%2Cpid%3A4352531844023275903%2Crsk%3APC_3671314000581967180&gl=za&offers=1&product_id=844648214975658512&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECNMM",
+            "source": "eBay - duckdeals23",
+            "price": "695.72 R + tax",
+            "extracted_price": 695.72,
+            "alternative_price": {
+                "price": "US$37.95 + tax",
+                "extracted_price": 37.95,
+                "currency": "US$"
+            },
+            "rating": 4.2,
+            "reviews": 2892,
+            "extensions": [
+                "Wireless",
+                "Switch"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQIfNQ8qudjX1B1xcC2QZnHx5lhpf_lvgkhFMOXBF30NTVmF70Ef7Dh_VTrnRlJt6FjeE9I4KZEvp-0Hzgyc7vuLaCrVUCTa6iYXG0N90jqq62x8RrpAWsE3A&usqp=CAE",
+            "delivery": "+Delivery",
+            "remark": "Comfortable to use"
+        },
+        {
+            "position": 2,
+            "title": "NINTENDO SWITCH PRO CONTROLLER",
+            "link": "https://www.incredible.co.za/nintendo-switch-pro-controller?srsltid=AfmBOorc0dHbi1CYHWsDXnfzJi6w3kKYDY3aIHHhW91JfVxfCdpCgmrL_U0",
+            "product_link": "https://www.google.co.za/shopping/product/809801839814562095?gl=za",
+            "product_id": "809801839814562095",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=809801839814562095",
+            "number_of_comparisons": "10+",
+            "comparison_link": "https://www.google.co.za/shopping/product/809801839814562095/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:15778450832202843122_0,pid:1505463824734594411,rsk:PC_12472248583314663142&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECOQM",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A15778450832202843122_0%2Cpid%3A1505463824734594411%2Crsk%3APC_12472248583314663142&gl=za&offers=1&product_id=809801839814562095&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECOQM",
+            "source": "Incredible",
+            "price": "1699.0 R",
+            "extracted_price": 1699,
+            "rating": 4.7,
+            "reviews": 34817,
+            "extensions": [
+                "With Feedback",
+                "Wireless"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSunvjxXSgXjygCeIYAQ-ntX-yF5eg0Tj7MJ8QGz_01EnEncInuizM7AImjxGYjE7t3E65TMp5amYrjFz3Pa0UpckG5KpWMOm8jGOJWB2wBdPgcx9kkT1c8wa0&usqp=CAE",
+            "delivery": "Free delivery",
+            "remark": "Durable"
+        },
+        {
+            "position": 3,
+            "title": "PowerA Wired Controller for Nintendo Switch - Zelda: Breath of The Wild",
+            "link": "https://www.ubuy.com.sa/en/product/2ZSBVAZS-powera-wired-controller-plus-super-mario-nintendo-switch-red?srsltid=AfmBOooMpKaYtemgyqEqox1SPczglhJ-fF234geLgVazAM-lvUHzPMhrEJg",
+            "product_link": "https://www.google.co.za/shopping/product/7467265444823566339?gl=za",
+            "product_id": "7467265444823566339",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=7467265444823566339",
+            "source": "Ubuy",
+            "price": "2810.43 R",
+            "extracted_price": 2810.43,
+            "alternative_price": {
+                "price": "SAR 575.00",
+                "extracted_price": 575,
+                "currency": "SAR"
+            },
+            "rating": 4.3,
+            "reviews": 2056,
+            "extensions": [
+                "Wired",
+                "Gamepad",
+                "Switch",
+                "R 0 minimum order"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0QyjlQSckwojmAV45eIYYmTeUDBcNebNcZ8gtHx7tmJDncE4xnV5qnYq326eTMVfsIfXf7oJGdd826XG23nXddxCkSLstPcrhMMoQ6yFWSO3kQjQN4AIScA&usqp=CAE",
+            "delivery": "R 185.73 delivery",
+            "remark": "Performs well"
+        },
+        {
+            "position": 4,
+            "title": "Powera Enhanced Wired Controller for Nintendo Switch The Legend of Zelda",
+            "link": "https://retrovgames.com/nintendo-switch-powera-enhanced-wired-controller-the-legend-of-zelda/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=GMT&srsltid=AfmBOooGSYjRonkdo_KIIIZ-ixsMTXuZo3U0HwTmVk0e2SgexKXE2tSOKvs",
+            "product_link": "https://www.google.co.za/shopping/product/18329751290792893011?gl=za",
+            "product_id": "18329751290792893011",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&product_id=18329751290792893011",
+            "number_of_comparisons": "5+",
+            "comparison_link": "https://www.google.co.za/shopping/product/18329751290792893011/offers?hl=en&q=Nintendo+Switch+Pro+controller+Zelda+edition&uule=w+CAIQICIMU291dGggQWZyaWNh&gl=za&prds=eto:1124825493672625051_0,pid:1027802575347082404,rsk:PC_11788935115310518089&sa=X&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECIkN",
+            "serpapi_product_api_comparisons": "https://serpapi.com/search.json?engine=google_product&filter=eto%3A1124825493672625051_0%2Cpid%3A1027802575347082404%2Crsk%3APC_11788935115310518089&gl=za&offers=1&product_id=18329751290792893011&sa=X&uule=w+CAIQICIMU291dGggQWZyaWNh&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q3q4ECIkN",
+            "source": "Retro vGames",
+            "price": "641.09 R + tax",
+            "extracted_price": 641.09,
+            "alternative_price": {
+                "price": "US$34.97 + tax",
+                "extracted_price": 34.97,
+                "currency": "US$"
+            },
+            "second_hand_condition": "refurbished",
+            "rating": 4.3,
+            "reviews": 742,
+            "extensions": [
+                "With Feedback",
+                "Wired"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQU0vvs_Wm_sZolEK6l1VlrsyNgSjTvI0P9wrOfSw2yHq2iYMVlDrGvnL74Ej3RmTMrAyXe0yiYTjUlRxjb6swoybErMDdiXnmOYgyfspYoMLeX_xBWH4N51w&usqp=CAE",
+            "delivery": "+Delivery",
+            "remark": "Long battery life"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=60&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8NMDCJkU",
+        "other_pages": {
+            "2": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=60&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCIsU",
+            "3": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=120&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCI0U",
+            "4": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=180&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCI8U",
+            "5": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=240&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCJEU",
+            "6": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=300&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCJMU",
+            "7": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=360&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCJUU",
+            "8": "https://www.google.co.za/search?q=Nintendo+Switch+Pro+controller+Zelda+edition&sca_esv=33f171317715abb5&sca_upv=1&hl=en&gl=za&tbs=vw:d&tbm=shop&ei=UGyaZpaVCdz9ptQPh5G_-A4&start=420&sa=N&ved=0ahUKEwiW_ef5nLOHAxXcvokEHYfID-8Q8tMDCJcU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=60&tbm=shop&tbs=vw%3Ad",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=60&tbm=shop&tbs=vw%3Ad",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=60&tbm=shop&tbs=vw%3Ad",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=120&tbm=shop&tbs=vw%3Ad",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=180&tbm=shop&tbs=vw%3Ad",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=240&tbm=shop&tbs=vw%3Ad",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=300&tbm=shop&tbs=vw%3Ad",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=360&tbm=shop&tbs=vw%3Ad",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google_shopping&gl=za&google_domain=google.co.za&hl=en&location=South+Africa&q=Nintendo+Switch+Pro+controller+Zelda+edition&start=420&tbm=shop&tbs=vw%3Ad"
+        }
+    }
+}
