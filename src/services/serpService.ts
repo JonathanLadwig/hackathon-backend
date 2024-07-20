@@ -40,20 +40,26 @@ export class SerpService {
 
         // Filter results within one standard deviation
         const filtered_results = data.filter((result: { extracted_price: number; }) =>
-            result.extracted_price >= lower && result.extracted_price <= upper
+            result.extracted_price >= lower
         );
 
-        // Sort the filtered results by number of reviews, then by price
-        filtered_results.sort((a: any, b: any) => {
-            const reviewsA = a.reviews ?? 0;
-            const reviewsB = b.reviews ?? 0;
-            if (reviewsB !== reviewsA) {
-                return reviewsB - reviewsA;
-            }
-            return a.extracted_price - b.extracted_price;
-        });
+        const unfiltered_results = data.filter((result: { extracted_price: number; }) =>
+            result.extracted_price < lower
+        )
 
-        return { mean, std, lower, upper, lowest, highest, filtered_results }
+        // Sort the filtered results by number of reviews, then by price
+        // filtered_results.sort((a: any, b: any) => {
+        //     const reviewsA = a.reviews ?? 0;
+        //     const reviewsB = b.reviews ?? 0;
+        //     if (reviewsB !== reviewsA) {
+        //         return reviewsB - reviewsA;
+        //     }
+        //     return a.extracted_price - b.extracted_price;
+        // });
+
+        const filters = serpData["filters"]
+
+        return { mean, std, lower, upper, lowest, highest, filters, filtered_results, unfiltered_results }
     }
 
     async getGoogleLensData(url: string): Promise<any> {
@@ -90,7 +96,8 @@ export class SerpService {
                 location: "South Africa"
             }, (json) => {
                 if (json) {
-                    const knowledgeGraph = json["shopping_results"];
+                    // const knowledgeGraph = json["shopping_results"];
+                    const knowledgeGraph = json;
                     if (knowledgeGraph) {
                         resolve(knowledgeGraph);
                     } else {
@@ -103,5 +110,5 @@ export class SerpService {
         });
     }
 
-    
+
 }

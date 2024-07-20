@@ -16,5 +16,6 @@ const app = new Elysia()
         `:fox_face: Elysia is running at ${app.server?.hostname}:${app.server?.port}`
       );
 
-export type App = typeof app 
-
+console.log(
+  `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`
+);
