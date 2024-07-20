@@ -17,6 +17,14 @@ export const investecController = new Elysia({ prefix: '/investec' })
         console.log(`Received request for /api/accounts/${accountId}/balance`);
             const balance = await investecService.getAccountBalance(accountId);
         return balance;
+    })
+
+    .post('/api/accounts/:accountId/transfermultiple', async (req: any, res: any) => {
+        const { accountId } = req.params;
+        const transfers = req.body; // Assuming `transfers` is an array of transfer objects
+        console.log(`Received request to transfer multiple for account ${accountId}`);
+            const result = await investecService.transferMultiple(accountId, transfers);
+            return result;
     });
 
 
