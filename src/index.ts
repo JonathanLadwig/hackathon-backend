@@ -17,15 +17,12 @@ export const getResult = () => {
 
 const app = new Elysia()
   .use(cors())
-    .use(swagger())
+  .use(swagger())
   .use(swagger())
   .get("/", () => "Hi Elysia")
-    .use(investecController)
+  .use(investecController)
   .use(serp)
   .listen(3000);
-    console.log(
-        `:fox_face: Elysia is running at ${app.server?.hostname}:${app.server?.port}`
-      );
 
 console.log(
   `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port}`

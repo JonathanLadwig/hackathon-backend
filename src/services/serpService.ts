@@ -1,5 +1,6 @@
 import { getJson } from "serpapi";
 import { storeResult } from "..";
+import { serpkey } from "../keys/env";
 import { Result } from "../models/results";
 import { IShoppingResult, ShoppingResults } from "../models/shopping";
 
